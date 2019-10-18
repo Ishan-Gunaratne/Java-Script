@@ -1,0 +1,28 @@
+    *{
+        margin: 0 auto;
+    }
+
+    #target_li {
+        list-style: none;
+        padding: 10px;
+        font-size: 40px;
+        
+    }
+
+    #target_ul {
+      border: 2px solid black; 
+      padding: 50px;
+     margin: 50px;
+     padding-right: 10px 500px;
+     text-align: left;
+    
+    }
+
+    #target_button{
+            padding: 20px;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 50px;
+    }
